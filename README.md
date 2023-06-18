@@ -17,7 +17,7 @@ GSB Sales Assistant est une application Android développée en utilisant Java a
 
 ## Auteur
 
-Ce projet a été développé par Célian Laumond. Pour toute question ou assistance, veuillez contacter [email de contact].
+Ce projet a été développé par Célian Laumond. Pour toute question ou assistance, veuillez contacter celian.laumond@gmail.com.
 
 # GSB Sales Assistant - Android Application
 
@@ -38,7 +38,7 @@ GSB Sales Assistant is an Android application developed using Java with Android 
 
 ## Author
 
-This project was developed by Célian Laumond. For any inquiries or assistance, please contact [contact email].
+This project was developed by Célian Laumond. For any inquiries or assistance, please contact celian.laumond@gmail.com.
 
 
 
